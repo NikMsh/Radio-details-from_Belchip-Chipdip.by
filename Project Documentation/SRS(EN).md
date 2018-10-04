@@ -49,6 +49,6 @@ Ability to return  back to the list | The application should provide the ability
 ##### 3.2.1.1 External Quality Criteria <a name="3.2.1.1"></a>
 Important external criteria for this application are: low resource consumption and high performance, namely parsing of https://belchip.by/catalog/ and https://www.ru-chipdip.by/.
 ##### 3.2.1.2 Internal Quality Criteria <a name="3.2.1.2"></a>
-Internal criteria are: Easy to use due to a minimal interface, fast response speed to find products and get catalogs of them, Portability between different web-browsers.### 
+Internal criteria are: Easy to use due to a minimal interface, fast response speed to find products and get catalogs of them, Portability between different web-browsers.
 ### 4\. Analogues <a name="4"></a>
 This project is in some way a simplified version ["ScreamingFrog"](https://www.screamingfrog.co.uk/seo-spider/), ["Q-Parser"](https://q-parser.ru/), ["Netpeak Spider 3.0"](https://www.softpedia.com/get/Internet/Search-engine-tools-submiting/Netpeak-Spider.shtml) that greatly simplifies the use of.
