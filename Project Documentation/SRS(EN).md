@@ -5,7 +5,7 @@
   2.1. [Software Interfaces](#2.1) <br>
   2.2. [User Interfaces](#2.2) <br>
   2.3. [User Characteristics](#2.3) <br>
-3. [System Requirements](#3.) <br>
+3. [System Requirements](#3) <br>
   3.1 [Functional Requirements](#3.1) <br>
   3.2 [Non-Functional Requierements](#3.2) <br>
     3.2.1 [Software Quality Attributes](#3.2.1) <br>
@@ -33,7 +33,7 @@ Button | Event
 #### 2.3\. User Characteristics <a name="2.3"></a>
 People who need to find and check availability of radio components simultaneously from two online shops in Belarus belchip.by and chipdip.by.
 ### 3\. System Requirements <a name="3"></a>
-For user: run the application on the web-browser by link.
+For user: run the application on the web-browser by link.<br>
 For developer: you should have JDK 8 or later, JRE 8 or later, Tomcat server 9.0.6 and application jar file.
 #### 3.1\. Functional Requirements <a name="3.1"></a>
 The user is given the opportunities provided in the table.
