@@ -5,7 +5,6 @@
   2.1. [Software Interfaces](#2.1) <br>
   2.2. [User Interfaces](#2.2) <br>
   2.3. [User Characteristics](#2.3) <br>
-  2.4. [Assumptions and Dependencies](#2.4) <br>
 3. [System Requirements](#3.) <br>
   3.1 [Functional Requirements](#3.1) <br>
   3.2 [Non-Functional Requierements](#3.2) <br>
@@ -39,11 +38,12 @@ The user is given the opportunities provided in the table.
 
 Function | Requirements
 --- | ---Search product | The application should find products by your requirements 
-Click on the catalog from list | Get product lists by clicking on the link Ability to return  back to main page | The application should provide the ability to return to the main page by pressing ìMainî in navigational bar Ability to return  back to the list | The application should provide the ability to return back to the list by pressing ìBackî 
+Click on the catalog from list | Get product lists by clicking on the link Ability to return  back to main page | The application should provide the ability to return to the main page by pressing ‚ÄúMain‚Äù in navigational bar Ability to return  back to the list | The application should provide the ability to return back to the list by pressing ‚ÄúBack‚Äù 
 
 #### 3.2\. Non-Functional Requierements <a name="3.2"></a>
 ##### 3.2.1\. Software Quality Attributes <a name="3.2.1"></a>
 ##### 3.2.1.1 External Quality Criteria <a name="3.2.1.1"></a>
 Important external criteria for this application are: low resource consumption and high performance, namely parsing of https://belchip.by/catalog/ and https://www.ru-chipdip.by/.
 ##### 3.2.1.2 Internal Quality Criteria <a name="3.2.1.2"></a>
-Internal criteria are: Easy to use due to a minimal interface, fast response speed to find products and get catalogs of them, Portability between different web-browsers.### 4\. Analogues <a name="4"></a>This project is in some way a simplified version ["ScreamingFrog"](https://www.screamingfrog.co.uk/seo-spider/), ["Q-Parser"](https://q-parser.ru/), ["Netpeak Spider 3.0"](https://www.softpedia.com/get/Internet/Search-engine-tools-submiting/Netpeak-Spider.shtml) that greatly simplifies the use of.
+Internal criteria are: Easy to use due to a minimal interface, fast response speed to find products and get catalogs of them, Portability between different web-browsers.### 
+### 4\. Analogues <a name="4"></a>This project is in some way a simplified version ["ScreamingFrog"](https://www.screamingfrog.co.uk/seo-spider/), ["Q-Parser"](https://q-parser.ru/), ["Netpeak Spider 3.0"](https://www.softpedia.com/get/Internet/Search-engine-tools-submiting/Netpeak-Spider.shtml) that greatly simplifies the use of.
