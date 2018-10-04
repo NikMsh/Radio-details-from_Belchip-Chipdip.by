@@ -21,7 +21,8 @@
 There are many online shops, but usually we need to find some products and check availability of them. For this purpose it is necessary to visit each of them.The solution is to create one web site which can search products we need in several online shops.
 
 ### 2\. User Requirements <a name="2"></a>
-#### 2.1\. Software Interfaces <a name="2.1"></a>The project uses jsp, css and bootstrap framework.
+#### 2.1\. Software Interfaces <a name="2.1"></a>
+The project uses jsp, css and bootstrap framework.
 #### 2.2\. User Interfaces <a name="2.2"></a>The GUI of the project is presented with the help of mocaps [main_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Main_page.png) and [found_product_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Found_product_page.png).The main page requires a separate view:
 
 Button | Event
