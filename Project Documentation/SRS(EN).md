@@ -21,7 +21,8 @@ There are many online shops, but usually we need to find some products and check
 ### 2\. User Requirements <a name="2"></a>
 #### 2.1\. Software Interfaces <a name="2.1"></a>
 The project uses jsp, css and bootstrap framework.
-#### 2.2\. User Interfaces <a name="2.2"></a>The GUI of the project is presented with the help of mocaps [main_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Main_page.png) and [found_product_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Found_product_page.png).The main page requires a separate view:
+#### 2.2\. User Interfaces <a name="2.2"></a>
+The GUI of the project is presented with the help of mocaps [main_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Main_page.png) and [found_product_page](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/mockups/Found_product_page.png).The main page requires a separate view:
 
 Button | Event
 --- | ---
@@ -31,7 +32,7 @@ Button | Event
 
 #### 2.3\. User Characteristics <a name="2.3"></a>
 People who need to find and check availability of radio components simultaneously from two online shops in Belarus belchip.by and chipdip.by.
-#### 2.4. Assumptions and dependencies<a name= " 2.4 " >< / a>
+#### 2.4\. Assumptions and dependencies<a name= " 2.4 " >< / a>
 For the user: the presence of a modern browser and Internet connection.<br>
 For developer: you must have JDK 8 or later, JRE 8 or later, Tomcat 9.0.6 server, and application jar file installed.
 ### 3\. System Requirements <a name="3"></a>
