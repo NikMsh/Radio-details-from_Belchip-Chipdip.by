@@ -38,8 +38,11 @@ For developer: you should have JDK 8 or later, JRE 8 or later, Tomcat server 9.0
 The user is given the opportunities provided in the table.
 
 Function | Requirements
---- | ---Search product | The application should find products by your requirements 
-Click on the catalog from list | Get product lists by clicking on the link Ability to return  back to main page | The application should provide the ability to return to the main page by pressing “Main” in navigational bar Ability to return  back to the list | The application should provide the ability to return back to the list by pressing “Back” 
+--- | ---
+Search product | The application should find products by your requirements 
+Click on the catalog from list | Get product lists by clicking on the link 
+Ability to return  back to main page | The application should provide the ability to return to the main page by pressing “Main” in navigational bar 
+Ability to return  back to the list | The application should provide the ability to return back to the list by pressing “Back” 
 
 #### 3.2\. Non-Functional Requierements <a name="3.2"></a>
 ##### 3.2.1\. Software Quality Attributes <a name="3.2.1"></a>
