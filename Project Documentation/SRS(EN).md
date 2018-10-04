@@ -32,7 +32,8 @@ Button | Event
 
 #### 2.3\. User Characteristics <a name="2.3"></a>
 People who need to find and check availability of radio components simultaneously from two online shops in Belarus belchip.by and chipdip.by.
-### 3\. System Requirements <a name="3"></a>For user: run the application on the web-browser by link.
+### 3\. System Requirements <a name="3"></a>
+For user: run the application on the web-browser by link.
 For developer: you should have JDK 8 or later, JRE 8 or later, Tomcat server 9.0.6 and application jar file.
 #### 3.1\. Functional Requirements <a name="3.1"></a>
 The user is given the opportunities provided in the table.
