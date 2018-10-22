@@ -65,4 +65,4 @@
 ![Class Diagram](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/class/Class.png)
 
 ### 6. Диаграмма развертывания<a name="6"></a>
-
+![Component/Deployment Diagram](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/component/component_Deployment.png)
