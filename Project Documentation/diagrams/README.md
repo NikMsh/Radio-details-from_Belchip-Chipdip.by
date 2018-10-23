@@ -59,10 +59,11 @@
 ![Sequence Diagram](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/sequence/Sequence.png)
 
 ### 4. Диаграмма состояний<a name="4"></a>
+Диагаммы состояний более подробно расписаны в следующем документе: [диаграммы состояний](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/state/README.md)
 
 ### 5. Диаграмма классов<a name="5"></a>
 Диаграмма классов представляет собой следующую диаграмму: 
 ![Class Diagram](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/class/Class.png)
 
 ### 6. Диаграмма развертывания<a name="6"></a>
-
+![Component/Deployment Diagram](https://github.com/NikMsh/Radio-details-from_Belchip-Chipdip.by/blob/master/Project%20Documentation/diagrams/component/component_Deployment.png)
