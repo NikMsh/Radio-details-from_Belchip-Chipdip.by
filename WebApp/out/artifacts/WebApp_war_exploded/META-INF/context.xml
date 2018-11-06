@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Context>
+
+    <Resource name="jdbc/users"
+    auth="Container"
+    type="javax.sql.DataSource"
+    username="root"
+    password="1111"
+    driverClassName="com.mysql.jdbc.Driver"
+    url="jdbc:mysql://localhost:3306/users?autoReconnect=true&amp;useSSL=false"
+    validationQuery="select 1"
+    maxIdle="4"/>
+
+</Context>

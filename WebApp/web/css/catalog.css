@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=Lato|Raleway');
+
+body {
+    background-color: #f2f2f2;
+    font-family: "Lato";
+    font-weight: 300;
+    font-size: 16px;
+    color: #555;
+    -webkit-font-smoothing: antialiased;
+    -webkit-overflow-scrolling: touch;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: "Raleway";
+    font-weight: 300;
+    color: #333;
+}
+
+p {
+    line-height: 28px;
+    margin-bottom: 25px;
+}
+
+.centered {
+    text-align: center;
+}
+
+a {
+    color: #000000;
+}
+
+a:hover, a:focus {
+    color: #7b7b7b;
+    text-decoration: none;
+    outline: 0;
+}
+
+.navbar-brand {
+    margin-left: 10px;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+nav li {
+    list-style-position: inside;
+    font: 14px 'Oswald', sans-serif;
+    padding: 10px;
+}
+
+.aside-menu a {
+    color: #8f8f8f;
+}
+
+.dark-wrapper {
+    background: #A9A9A9;
+    color:white;
+    font-size: 15px;
+    font-weight:bold;
+}
+.dark-wrapper .ss-style-top::before {
+    background-image:linear-gradient(315deg,#ed0121 50%,transparent 50%),linear-gradient(45deg,#ed0121 50%,transparent 50%);
+}
+
+.themeBy{
+    color: #A9A9A9;
+    background: white;
+}
+
+.h2pad {
+    padding-top: 30px;
+}
+
+.txt-style {
+    padding-bottom: 10px;
+}
